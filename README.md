@@ -1,7 +1,7 @@
 # Dsa
 
 
-###Esse mapa mostra os algoritmos que o sklearn oferece:
+* O seguinte mapa mostra os algoritmos que o sklearn oferece:
 ![image](https://user-images.githubusercontent.com/104592210/185018679-7d160625-2641-441e-aefc-f74da966d43e.png)
 
 
