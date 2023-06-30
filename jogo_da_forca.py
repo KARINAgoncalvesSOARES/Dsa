@@ -1,10 +1,12 @@
 
 
-''' Projeto 1 - Desenvolvimento de Game em Linguagem Python - Versão 2 \n
+''' 
+Projeto 1 - Desenvolvimento de Game em Linguagem Python - Versão 2 \n
 Data Scientist Jr.: Karina Gonçalves Soares
 
 Links de estudo:
- *  [Construção do Game 1/5](https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science&unit=63ea8675bd9f5b9e030c0d5dUnit)'''
+
+* [Construção do Game 1/5] - (https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science&unit=63ea8675bd9f5b9e030c0d5dUnit)'''
 
 # Import
 import random
