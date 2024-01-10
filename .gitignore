@@ -1,2 +1,5 @@
 # Karina 
 venv_dsa/
+
+# gpt chave
+.env
